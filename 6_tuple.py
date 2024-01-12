@@ -16,7 +16,7 @@ tuple = (1,2,3,4,4)
 # 3. cant change the elements in tuple
 # tuple[2]=10      #TypeError: 'tuple' object does not support item assignment
 
-#But    we  can find    items   in a tuple,
+#But we can find items in a tuple,
 # since it does not change the tuple
 # print(tuple[100])       #IndexError: tuple index out of range
 print(tuple[-1])
